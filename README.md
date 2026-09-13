@@ -4,7 +4,7 @@ An application designed to help students who are experiencing schedule fatigue. 
 
 **Team:** Shing Zhun Kit, Cheang Xin Yan, Hew Wei Cheng, Lau Jin Yee  
 **Problem Statement:** [Stress & Workload Manager]  
-**Video Presentation:** [Unlisted Youtube Link]  
+**Video Presentation:** [https://youtu.be/d37F6x0fORY?si=b9rwIdVeyszwnLZr]  
 **Presentation Slides:** [https://canva.link/5e49afzrq498irj](https://canva.link/5e49afzrq498irj)
 
 ---
