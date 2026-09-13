@@ -58,7 +58,8 @@ Table of every distinct idea generated, with why each was kept or dropped, order
 
 ### 2.2 Ideation Boards
 
-![Mindmap](mindmap.jpg)
+<img width="1408" height="768" alt="mindmap" src="https://github.com/user-attachments/assets/6db5db73-9726-4639-8773-af2134b477e0" />
+
 *Image 1. Product Mind Map*
 
 This flow diagrams a product strategy framework for a task management tool designed to prevent burnout while boosting productivity.
@@ -94,7 +95,7 @@ The strategy translates ideation into five functional feature pillars under Sele
 
 ## 3. Design & Prototype
 
-**UI Prototype:** [LINK TO PROTOTYPE]
+**UI Prototype:** [https://www.figma.com/make/9GIFgqIrIoztn0o4wnMKNU/Balance-UI-Version-2?code-node-id=0-6&p=f&t=9IM0Kofny4moo45h-0&fullscreen=1]
 
 *Check that it opens in an incognito window. This can be a link to Figma, Canva, Netlify, Vercel or any other board where you showcase your UI. It can be clickable with hyperlinks or simply ordered screenshots.*
 
