@@ -1,6 +1,6 @@
-# Balance-by-Capy-X-Code
-An application designed to help students who are experiencing schedule fatigue. It is devoted to measuring students' stress levels and recommending better daily schedule modifications to minimise users's stress levels.
 # Balance by Capy X Code
+
+An application designed to help students who are experiencing schedule fatigue. It is devoted to measuring students' stress levels and recommending better daily schedule modifications to minimise users's stress levels.
 
 **Team:** Shing Zhun Kit, Cheang Xin Yan, Hew Wei Cheng, Lau Jin Yee  
 **Problem Statement:** [Stress & Workload Manager]  
