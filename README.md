@@ -103,10 +103,10 @@ The strategy translates ideation into five functional feature pillars under Sele
 
 | Screen 1 | Screen 2 |
 | :---: | :---: |
-| ![Login Page](login_page.png)<br>**Login Page** | ![Show Workload Score, Upcoming Task](dashboard.png)<br>**Show Workload Score, Upcoming Task** |
-| ![Add Task](add_task.png)<br>**Add Task** | ![Weekly Overview](weekly_overview.png)<br>**Weekly Overview** |
-| ![AI Rebalancing](ai_rebalancing.png)<br>**AI Rebalancing** - AI analyzes the workload and proposes concrete adjustments | ![What-if Simulation](what_if_simulation.png)<br>**What-if Simulation** - Test a hypothetical schedule change and see how it affects workload score before committing |
-| ![AI Chatbot](ai_chatbot.png)<br>**AI Chatbot** | ![Overload Detection](overload_detection.png)<br>**Overload Detection** - Show main pressure point, most urgent tasks |
+| <img width="175" height="337" alt="Screenshot 2026-09-13 at 11 29 41 PM" src="https://github.com/user-attachments/assets/7ef3aa8f-537e-4686-bc4f-0fec2d84c6de" /><br>**Login Page** | <img width="172" height="333" alt="Screenshot 2026-09-13 at 11 29 55 PM" src="https://github.com/user-attachments/assets/f97054e5-bf78-42d1-bcb8-a341796ac46c" /><br>**Show Workload Score, Upcoming Task** |
+| <img width="177" height="352" alt="Screenshot 2026-09-13 at 11 30 08 PM" src="https://github.com/user-attachments/assets/151094bb-b4b0-40d4-92ff-e232b02824b2" /><br>**Add Task** | <img width="171" height="344" alt="Screenshot 2026-09-13 at 11 30 15 PM" src="https://github.com/user-attachments/assets/8000b605-7ac8-4766-baf0-2feb4d0864f4" /><br>**Weekly Overview** |
+| <img width="167" height="342" alt="Screenshot 2026-09-13 at 11 30 22 PM" src="https://github.com/user-attachments/assets/b77d93fb-955b-4826-a16b-9086ef1759db" /><br>**AI Rebalancing** - AI analyzes the workload and proposes concrete adjustments | <img width="167" height="346" alt="Screenshot 2026-09-13 at 11 30 29 PM" src="https://github.com/user-attachments/assets/ff9d2d20-5b39-4de3-b852-55165bb3b6eb" /><br>**What-if Simulation** - Test a hypothetical schedule change and see how it affects workload score before committing |
+| <img width="185" height="383" alt="Screenshot 2026-09-13 at 11 30 40 PM" src="https://github.com/user-attachments/assets/68d5e469-6d69-4a1f-a21a-911a826905fb" /><br>**AI Chatbot** | <img width="193" height="384" alt="Screenshot 2026-09-13 at 11 30 45 PM" src="https://github.com/user-attachments/assets/c8dfcf8a-2c51-4e7d-9c6f-3bd4835e5c55" /><br>**Overload Detection** - Show main pressure point, most urgent tasks || <img width="898" height="1448" alt="Image 13 09 2026 at 7 04 PM" src="https://github.com/user-attachments/assets/25ed9329-9a73-4aaf-96ef-5feb101cf45e" /><br>**AI Add Task Feature** - Automatic words extraction feature when adding a new task |
 
 ---
 
